@@ -1,3 +1,5 @@
+# STATUS: WIP
+
 # kobj
 
 A Kubernetes CLI wrapper with object-first syntax.
